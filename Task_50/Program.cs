@@ -9,7 +9,7 @@ col = Convert.ToInt32(Console.ReadLine());
 
 if (row >= arr.GetLength(0) || col >= arr.GetLength(1))
 {
-  Console.WriteLine("Элемента с такими координатами не существует.");
+  Console.WriteLine("Элемента с такими координатами не существует. ");
 }
 else
 {
